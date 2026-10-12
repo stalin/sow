@@ -133,3 +133,11 @@ app = FastAPI(lifespan=lifespan)
 ```
 
 Sync applications call `sow.run_sync()` and `sow.run_pending_sync("seed")`.
+
+## License
+
+`sow` is released under the MIT License. The full text is in [LICENSE](LICENSE).
+
+## Contributors
+
+Stalin `<stalin.jt@gmail.com>` created and maintains this project. The list is in [CONTRIBUTORS](CONTRIBUTORS).
